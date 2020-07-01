@@ -11,6 +11,7 @@
         <module name="product-data-service" />
         <module name="product-view-service-feign" />
         <module name="product-view-service-ribbon" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
